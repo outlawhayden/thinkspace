@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hi -- I'm Hayden Outlaw, (it's my real name), and I'm a PhD student in Applied Mathematics at North Carolina State University in Raleigh, NC, USA. I'm a big fan of photography, computers, dogs, and people, and like thinking about how we can bring them together.
+
+Want to reach out? Have something cool to show me or talk about? Shoot me an email at <em>haydenkoutlaw \[at\] gmail \[dot com\]</em>. Bots, scrapers, and recruiters should go do something else.
