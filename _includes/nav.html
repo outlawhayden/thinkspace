@@ -2,6 +2,13 @@
 <nav class="nav">
   <div class="container">
     <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></h1>
+        <!-- Status icon placed here -->
+    {% capture site_status %}
+      {% include status.txt %}
+    {% endcapture %}
+    <span class="status-icon" title="{{ site_status | strip_newlines }}">
+      💬
+    </span>
     <ul class="navbar">
       <li><a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About me</a></li>
       <li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank">RSS</a></li>
