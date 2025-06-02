@@ -3,3 +3,9 @@
 ---
 @charset "utf-8";
 @import "main";
+
+.status-icon {
+  cursor: help;
+  margin-left: 1rem;
+  font-size: 1.2em;
+}
