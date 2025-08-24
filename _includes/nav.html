@@ -10,7 +10,9 @@
       💬
     </span>
     <ul class="navbar">
-      <li><a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About me</a></li>
+      {% for item in site.navbar %}
+        <li><a href="{{ '/' | append: item.slug | prepend: site.baseurl | prepend: site.url }}">{{ item.title }}</a></li>
+      {% endfor %}
       <li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank">RSS</a></li>
     </ul>
   </div>

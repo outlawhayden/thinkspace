@@ -41,6 +41,8 @@ navbar:
     title: About
   - slug : blog
     title: Blog
+  - slug : neat_things
+    title: Neat Things
 
 exclude:
   - "gulp"

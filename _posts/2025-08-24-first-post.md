@@ -1,0 +1,14 @@
+---
+layout: post
+title: "First Post!"
+comments: true
+description: "Seeing If It Works"
+keywords: "first post, blog post, sketchy"
+---
+
+
+Hey all - hopefully you all found your way to this page (on purpose or on accident) and it's working fine! Most of my web dev experience is just guesswork, so if there are any bugs or odd behaviors totally let me know -  and thank you for your patience in the meantime while I patch them all. Beyond this post serving as a purely technical proof of concept that I can deploy things to the internet, I think I also want it to be a creative proof of concept that I could commit to ejecting most of my social media and switching to a blog.
+
+There's no shortage of reasons why social media sucks, which I think we're all on board with, so I won't wax about that here. However, I do genuinely think there is interesting work happening on the internet and that there still is innovation outside of the six websites anyone ever visits these days. Now I do think the cryptocurrency/web3 evangelists are straight up wrong (or lying or both) -- the better internet we all are looking for is going to be simpler, more autonomous, and much more atomized with way less algorithmic input. You can see some of the more prominent movenents here happening on [bluesky](https://bsky.app/), a [Digg](https://www.digg.com/) reboot, [Mastodon](https://mastodon.social/explore), and other post-twitter movements since Twitter got bought by weird Nazis and bots. While I think these new movements are super cool, and I've signed on to a few of them, they're clearly still lacking critical mass for popular adoption, and plagued with issues of their own. When I look at where interesting things are going on though, it seems like the future is (mostly) self hosted blogs and static web pages. Any cool compilation site these days (ie HackerNews, slashdot, etc.,) that is pointing to people making real change are hosting their corners of the internet themselves. I think this isn't an accident, as it requires some more genuine thought, and is also decoupled from any kind of clout/metric/algorithmic based success: things are considered successful if people find it interesting and share it of their own free will. I'm self-aware enough to recognize that I'm nowhere near the level of innovator or creative as these people I look up to, and lumping myself in with them is a huge fallacy on my end, but maybe if I can figure out toolbars I'll add a page linking their sites here and you can go check them out for yourself! More what I want is a place to be genuine on the internet without algorithmic oversight, to interact more with true friends, and to grapple back some semblance of control over my digital footprint. With that in mind, I want to start posting in a recurring fashion here -- so check back soon!
+
+-- Hayden
