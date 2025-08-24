@@ -32,7 +32,6 @@ author:
 
 plugins:
   - jekyll-sitemap
-  - bourbon
   - jekyll-paginate
 
 # navbar pages
