@@ -1,10 +1,10 @@
 # Site settings
 title_left    : "outlaw"
 title_right   : ".is.me" # default: ""
-description   : "outlaw.is.me -- personal blog and website"
+description   : "outlaw.is.me -- hayden outlaw's personal blog and website"
 keywords      : "Hayden Outlaw, Outlaw, Mathematics, NCSU, Writing, Blog, Programming, Machine Learning, Photography, Blog"
 url           : https://outlawhayden.github.io # site url
-baseurl       : "/thinkspace" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
@@ -39,8 +39,6 @@ plugins:
 navbar:
   - slug : about
     title: About
-  - slug : blog
-    title: Blog
   - slug : neat_things
     title: Neat Things
 
